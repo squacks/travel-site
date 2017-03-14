@@ -5,7 +5,7 @@
 
   @mixin atLarge {
     margin-bottom: 0;
-    padding: 0 1.1825rem 1px 1.1825rem;
+    padding: 0 1.8125rem 1px 1.8125rem;
   }
 
   &--last {
@@ -20,7 +20,7 @@
     margin: 0 auto -80px auto;
     position: relative;
     top: -80px;
-    border: solid 6px rgba(255, 255, 255, .8)
+    border: 6px solid rgba(255, 255, 255, .8);
   }
 
   &__title {
@@ -38,7 +38,4 @@
     font-size: 0.9375rem;
     margin: .25rem 0 1rem 0;
   }
-
-
-
 }

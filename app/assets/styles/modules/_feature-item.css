@@ -16,7 +16,7 @@
     }
   }
 
-  &__title  {
+  &__title {
     font-size: 1.6rem;
     font-weight: 300;
     margin-top: .7em;
@@ -29,6 +29,4 @@
       font-size: 1.875rem;
     }
   }
-
-
 }
